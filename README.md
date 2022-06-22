@@ -1,4 +1,5 @@
 phpで作ったジャンケンゲームです
+https://yuta610-portfolio.info/janken/index.php
 
 三回コンピューターとじゃんけんをしていただき最後に勝敗結果が表示されます。
 
